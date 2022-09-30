@@ -96,7 +96,7 @@ Test:0.7635 +- 0.0006
 
 ---
 
-**[GIANT-XRT+R-SAGN+SCR+C&S on ogbn-products]: **Number of params: 1154142
+**[GIANT-XRT+R-SAGN+SCR on ogbn-products]: **Number of params: 1154142
 
 | run  | val    | test   |
 | ---- | ------ | ------ |
@@ -117,8 +117,6 @@ Test: 0.8662 +- 0.0004
 ```
 
 ​                                                                   
-
-
 
 \[GIANT-XRT+R-SAGN+SCR**+C&S on ogbn-products\]:**
 
